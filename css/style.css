@@ -2333,3 +2333,10 @@ blockquote {
 }
 
 
+small { 
+    font-size: 30px;
+  }
+
+.smaller-li{
+    font-size: 15px;
+}
