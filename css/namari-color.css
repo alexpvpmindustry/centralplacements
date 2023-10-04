@@ -27,6 +27,11 @@ a, .la-ball-triangle-path {
 
 a:hover, #header.nav-solid nav a:hover {
     color:#172E73;
+    background-color: #F28F16;
+}
+
+.hoverlink:hover {
+    background-color: #F28F16;
 }
 
 /* Default Icon Color */
