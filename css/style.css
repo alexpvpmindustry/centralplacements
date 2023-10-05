@@ -341,7 +341,7 @@ section {
 }
 
 #banner #logo h1 {
-    font-size: 128px;
+    font-size: 90px;
     margin-right: 10px;
     font-weight: 900;
     padding: 0;
@@ -2191,7 +2191,9 @@ blockquote {
     a#scrollUp {
         display: none !important;
     }
-
+    .text-left-margin{
+        padding-left: 5%;
+    }
 }
 
 /* Mobile to Tablet Portrait
@@ -2272,7 +2274,9 @@ blockquote {
         float: right;
         width: 50%;
     }
-
+    .text-left-margin{
+        padding-left: 5%;
+    }
 }
 
 /* Landscape Tablet to Desktop
@@ -2325,7 +2329,9 @@ blockquote {
     .slvj-lightbox iframe, .slvj-lightbox object, .slvj-lightbox embed {
         height: 432px !important;
     }
-
+    .text-left-margin{
+        padding-left: 10%;
+    }
 }
 
 .sss {
@@ -2337,6 +2343,13 @@ small {
     font-size: 30px;
   }
 
-.smaller-li{
-    font-size: 15px;
+  .smaller-li{
+    font-size: 20px;
+}
+.larger-text{
+    font-size: 25px;
+    font-weight: bold;
+}
+.text-left-margin{
+    padding-left: 10%;
 }
